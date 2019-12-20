@@ -1,4 +1,4 @@
-/ Create a function that reverses a string
+//Create a function that reverses a string
 
 
 function reverse_string(str) {
